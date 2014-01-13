@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.employeeManagement.widgets.UserListWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>User List</label>
+  <description>userList</description>
+</widget>

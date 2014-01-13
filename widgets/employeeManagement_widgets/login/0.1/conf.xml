@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.employeeManagement.widgets.LoginWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Login</label>
+  <description>login</description>
+</widget>
